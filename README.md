@@ -51,7 +51,7 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/148585/screenshots/1914271/untitled-2v2.gif" alt="Android Studio" width="40" height="40"/> </a>
   
 
-![Snake animation](https://github.com/Ahisingh)
+
 
 
 
@@ -68,3 +68,6 @@ Skills: `Data Structure & Algorithms` `Project Management` `Software Development
 **Graduate Aptitude Test In Engineering(GATE)** \
 [**PhysicsWallah**](https://www.pw.live/)  • In progress\
 Skills: `DSA` `TOC` `Compiler Design` `PS` `DBMS` `Operating System` `COA` `Computer Network` `DMS` `Digital Electronics`
+
+
+ ![Snake animation](https://github.com/Ahisingh/Ahisingh/blob/output/github-contribution-grid-snake.svg)
