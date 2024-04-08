@@ -51,7 +51,7 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/148585/screenshots/1914271/untitled-2v2.gif" alt="Android Studio" width="40" height="40"/> </a>
   
 
-
+![Snake animation](https://github.com/Ahisingh)
 
 
 
