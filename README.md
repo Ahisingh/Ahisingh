@@ -2,7 +2,6 @@
 
 <h3 align="center">"From pixels to patterns, I code the future"</h3>
 <br>
-
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Ahisingh&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahisingh&layout=compact&theme=radical" />
